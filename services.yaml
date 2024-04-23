@@ -1,0 +1,228 @@
+---
+# For configuration options and examples, please see:
+# https://gethomepage.dev/latest/configs/services
+- Monitoring and Metrics:
+    - Prometheus:
+        icon: prometheus.png
+        href: http://192.168.1.25:9090
+#        server: 192.168.1.25 # The docker server that was configured
+#        container: prometheus
+        ping:
+        description:
+
+    - Grafana:
+        icon: grafana.png
+        href: http://192.168.1.25:3000
+        ping:
+        description:
+
+    - Netdata:
+        icon: netdata.png
+        href: http://192.168.1.25:19999
+        ping:
+        description:
+
+    - Uptime Kuma:
+        icon: uptime-kuma.png
+        href: http://192.168.1.70:3001
+        ping:
+        description:
+
+    - Speedtest Tracker:
+        icon: speedtest-tracker.png
+        href: http://192.168.1.25:8383
+        ping:
+        description:
+
+- Media:
+    - Plex:
+        icon: plex.png
+        href: http://192.168.1.25:32400
+        ping:
+        description:
+
+    - Syncthing:
+        icon: syncthing.png
+        href: http://192.168.1.25:8384/
+        ping:
+        description:
+
+    - Immich:
+        icon: immich.png
+        href: http://192.168.1.25:2283
+        ping:
+        description:
+
+- Infrastructure:
+    - Unifi Security Gateway:
+        icon: ubiquiti.png
+        href: https://192.168.1.1
+        ping: 192.168.1.1
+
+    - Unifi Controller:
+        icon: unifi-controller.png
+        href: https://192.168.1.10
+        ping:
+
+    - Unraid:
+        icon: unraid.png
+        href: http://192.168.1.25
+        ping:
+        description:
+
+    - Proxmox:
+        icon: proxmox.png
+        href: https://192.168.1.20:8006/
+        ping: 192.168.1.20
+        description: pm-01
+
+    - Unbalanced:
+        icon: unbalanced.png
+        href: http://192.168.1.25:7090
+        ping:
+        description:
+
+- Tools:
+    - Chromium:
+        icon: chromium.png
+        href: http://192.168.1.25:8080/vnc.html?autoconnect=true
+        ping:
+        description:
+
+    - Dozzle:
+        icon: dozzle.png
+        href: http://192.168.1.25:9001
+        ping:
+        descrition:
+
+    - Portainer:
+        icon: portainer.png
+        href: http://192.168.1.25:9000
+        ping:
+        description:
+
+    - Mealie:
+        icon: mealie.png
+        href: http://192.168.1.25:3030
+        ping:
+        description:
+
+    - Stirling PDF:
+        icon: stirling-pdf.png
+        href: http://192.168.1.25:3040
+        ping:
+        description:
+
+- Monitoring and Metrics (Tailscale):
+    - Prometheus:
+        icon: prometheus.png
+        href: http://100.109.233.48:9090
+        ping: http://100.109.233.48:9090
+        description:
+
+    - Grafana:
+        icon: grafana.png
+        href: http://100.109.233.48:3000
+        ping: http://100.109.233.48:3000
+        description:
+
+    - Netdata:
+        icon: netdata.png
+        href: http://100.109.233.48:19999
+        ping: http://100.109.233.48:19999
+        description:
+
+    - Uptime Kuma:
+        icon: uptime-kuma.png
+        href: http://100.121.105.91:3001/dashboard
+        ping: http://100.121.105.91:3001
+        description:
+
+    - Speedtest Tracker:
+        icon: speedtest-tracker.png
+        href: http://100.109.233.48:8383
+        ping: http://100.109.233.48:8383
+        description:
+
+- Media (Tailscale):
+    - Plex:
+        icon: plex.png
+        href: http://100.109.233.48:32400
+        ping: http://100.109.233.48:32400
+        description:
+
+    - Syncthing:
+        icon: syncthing.png
+        href: http://100.109.233.48:8384
+        ping: http://100.109.233.48:8384
+        description:
+
+    - Immich:
+        icon: immich.png
+        href: http://100.109.233.48:2283
+        ping: 100.109.233.48:2283
+        description:
+
+- Infrastructure (Tailscale):
+    - Unraid:
+        icon: unraid.png
+        href: http://100.109.233.48
+        ping: http://100.109.233.48
+        description:
+
+    - Unbalanced:
+        icon: unbalanced.png
+        href: http://100.109.233.48:7090
+        ping: http://100.109.233.48:8384
+        description:
+
+- Tools (Tailscale):
+    - Chromium:
+        icon: chromium.png
+        href: http://100.109.233.48:8080/vnc.html?autoconnect=true
+        ping: http://100.109.233.48:8080/vnc.html?autoconnect=true
+        description:
+
+    - Dozzle:
+        icon: dozzle.png
+        href: http://100.109.233.48:9001
+        ping: http://100.109.233.48:9001
+        descrition:
+
+    - Portainer:
+        icon: portainer.png
+        href: http://100.109.233.48:9000
+        ping: http://100.109.233.48:9000
+        description:
+
+    - Mealie:
+        icon: mealie.png
+        href: http://100.109.233.48:3030
+        ping: 100.109.233.48
+        description:
+
+- Infrastructure (Waikanae):
+    - Unraid:
+        icon: unraid.png
+        href: http://100.64.151.81
+        ping: http://100.64.151.81
+        description:
+
+- Tools (Waikanae):
+    - Chromium:
+        icon: chromium.png
+        href: http://100.64.151.81:8080/vnc.html?autoconnect=true
+        ping: http://100.64.151.81:8080/vnc.html?autoconnect=true
+        description:
+
+    - Syncthing:
+        icon: syncthing.png
+        href: http://100.64.151.81:8384/
+        ping: http://100.64.151.81:8384
+        description:
+
+    - Deluge:
+        icon: deluge.png
+        href: http://100.64.151.81:8112
+        ping: http://100.64.151.81:8112
+        description:

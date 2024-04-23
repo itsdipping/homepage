@@ -1,0 +1,17 @@
+---
+# For configuration options and examples, please see:
+# https://gethomepage.dev/latest/configs/widgets
+
+- resources:
+    cpu: true
+    memory: true
+    disk: 
+      - /
+    expanded: true
+    uptime: true
+    refresh: 3000
+    label: blu-local
+
+- search:
+    provider: duckduckgo
+    target: _blank

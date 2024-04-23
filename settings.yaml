@@ -1,0 +1,34 @@
+---
+# For configuration options and examples, please see:
+# https://gethomepage.dev/latest/configs/settings
+
+providers:
+  openweathermap: openweathermapapikey
+  weatherapi: weatherapiapikey
+
+useEqualHeights: true
+
+layout:
+  Monitoring and Metrics:
+    tab: Local
+  Media:
+    tab: Local
+  Infrastructure:
+    tab: Local
+  Tools:
+    tab: Local
+
+  Monitoring and Metrics (Tailscale):
+    tab: Tailscale
+  Media (Tailscale):
+    tab: Tailscale
+  Infrastructure (Tailscale):
+    tab: Tailscale
+  Tools (Tailscale):
+    tab: Tailscale
+
+  Infrastructure (Waikanae):
+    tab: Waikanae
+  Tools (Waikanae):
+    tab: Waikanae
+

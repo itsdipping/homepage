@@ -1,0 +1,298 @@
+[2023-10-20T01:13:36.744Z] info: docker.yaml was copied to the config folder
+[2023-10-20T01:13:36.748Z] info: services.yaml was copied to the config folder
+[2023-10-20T01:13:36.749Z] info: bookmarks.yaml was copied to the config folder
+[2023-10-20T01:13:36.761Z] info: widgets.yaml was copied to the config folder
+[2023-10-20T01:13:36.762Z] info: custom.css was copied to the config folder
+[2023-10-20T01:13:36.764Z] info: custom.js was copied to the config folder
+[2023-10-20T01:13:36.876Z] info: kubernetes.yaml was copied to the config folder
+[2023-10-20T01:43:30.210Z] error: undefined
+[2023-10-20T02:13:44.073Z] error: undefined
+[2023-10-20T02:13:44.158Z] error: undefined
+[2023-10-20T02:13:44.159Z] error: undefined
+[2023-10-20T02:13:44.160Z] error: undefined
+[2023-10-20T02:13:44.160Z] error: undefined
+[2023-10-20T02:13:44.161Z] error: undefined
+[2023-10-20T02:13:44.234Z] error: Failed to load services.yaml, please check for errors
+[2023-10-20T02:13:44.234Z] error: TypeError: Cannot read properties of null (reading 'map')
+[2023-10-20T02:13:44.248Z] error: Failed to load services.yaml, please check for errors
+[2023-10-20T02:13:44.248Z] error: TypeError: Cannot read properties of null (reading 'map')
+[2023-10-20T02:13:44.554Z] error: Failed to load services.yaml, please check for errors
+[2023-10-20T02:13:44.554Z] error: TypeError: Cannot read properties of null (reading 'map')
+[2023-10-29T21:24:24.090Z] error: bad indentation of a sequence entry (38:13)
+
+ 35 |         description: TV Shows and Movies
+ 36 | 
+ 37 |     - Syncthing
+ 38 |         icon: syncthing.png
+------------------^
+ 39 |         href: http://100.109.233.48:8384/
+ 40 |         ping: http://100.109.233.48:8384
+[2023-10-29T21:24:24.146Z] error: bad indentation of a sequence entry (38:13)
+
+ 35 |         description: TV Shows and Movies
+ 36 | 
+ 37 |     - Syncthing
+ 38 |         icon: syncthing.png
+------------------^
+ 39 |         href: http://100.109.233.48:8384/
+ 40 |         ping: http://100.109.233.48:8384
+[2023-10-29T21:24:24.147Z] error: bad indentation of a sequence entry (38:13)
+
+ 35 |         description: TV Shows and Movies
+ 36 | 
+ 37 |     - Syncthing
+ 38 |         icon: syncthing.png
+------------------^
+ 39 |         href: http://100.109.233.48:8384/
+ 40 |         ping: http://100.109.233.48:8384
+[2023-10-29T21:24:24.147Z] error: bad indentation of a sequence entry (38:13)
+
+ 35 |         description: TV Shows and Movies
+ 36 | 
+ 37 |     - Syncthing
+ 38 |         icon: syncthing.png
+------------------^
+ 39 |         href: http://100.109.233.48:8384/
+ 40 |         ping: http://100.109.233.48:8384
+[2023-10-29T21:24:24.152Z] error: bad indentation of a sequence entry (38:13)
+
+ 35 |         description: TV Shows and Movies
+ 36 | 
+ 37 |     - Syncthing
+ 38 |         icon: syncthing.png
+------------------^
+ 39 |         href: http://100.109.233.48:8384/
+ 40 |         ping: http://100.109.233.48:8384
+[2023-10-29T21:24:24.153Z] error: bad indentation of a sequence entry (38:13)
+
+ 35 |         description: TV Shows and Movies
+ 36 | 
+ 37 |     - Syncthing
+ 38 |         icon: syncthing.png
+------------------^
+ 39 |         href: http://100.109.233.48:8384/
+ 40 |         ping: http://100.109.233.48:8384
+[2023-10-29T21:24:24.242Z] error: Failed to load services.yaml, please check for errors
+[2023-10-29T21:24:24.242Z] error: YAMLException: bad indentation of a sequence entry (38:13)
+
+ 35 |         description: TV Shows and Movies
+ 36 | 
+ 37 |     - Syncthing
+ 38 |         icon: syncthing.png
+------------------^
+ 39 |         href: http://100.109.233.48:8384/
+ 40 |         ping: http://100.109.233.48:8384
+[2023-10-29T21:24:24.252Z] error: Failed to load services.yaml, please check for errors
+[2023-10-29T21:24:24.252Z] error: YAMLException: bad indentation of a sequence entry (38:13)
+
+ 35 |         description: TV Shows and Movies
+ 36 | 
+ 37 |     - Syncthing
+ 38 |         icon: syncthing.png
+------------------^
+ 39 |         href: http://100.109.233.48:8384/
+ 40 |         ping: http://100.109.233.48:8384
+[2023-10-29T21:24:24.637Z] error: Failed to load services.yaml, please check for errors
+[2023-10-29T21:24:24.638Z] error: YAMLException: bad indentation of a sequence entry (38:13)
+
+ 35 |         description: TV Shows and Movies
+ 36 | 
+ 37 |     - Syncthing
+ 38 |         icon: syncthing.png
+------------------^
+ 39 |         href: http://100.109.233.48:8384/
+ 40 |         ping: http://100.109.233.48:8384
+[2024-03-13T09:17:07.378Z] error: Failed to load settings.yaml, please check for errors
+[2024-03-13T09:17:07.379Z] error: YAMLException: duplicated mapping key (18:3)
+
+ 15 |     tab: blu-local
+ 16 |   Tools:
+ 17 |     tab: blue-local
+ 18 |   Monitoring and Metrics:
+--------^
+ 19 |     tab: blu-local (Tailscale)
+ 20 |   Media:
+[2024-03-13T09:17:07.414Z] error: <index> YAMLException: duplicated mapping key (18:3)
+
+ 15 |     tab: blu-local
+ 16 |   Tools:
+ 17 |     tab: blue-local
+ 18 |   Monitoring and Metrics:
+--------^
+ 19 |     tab: blu-local (Tailscale)
+ 20 |   Media:
+    at generateError (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:1273:10)
+    at throwError (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:1277:9)
+    at storeMappingPair (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:1448:7)
+    at readBlockMapping (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2263:9)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2531:12)
+    at readBlockMapping (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2254:11)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2531:12)
+    at readDocument (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2715:3)
+    at loadDocuments (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2778:5)
+    at Object.load$1 [as load] (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2804:19)
+[2024-03-13T09:17:07.427Z] error: Failed to load settings.yaml, please check for errors
+[2024-03-13T09:17:07.428Z] error: YAMLException: duplicated mapping key (18:3)
+
+ 15 |     tab: blu-local
+ 16 |   Tools:
+ 17 |     tab: blue-local
+ 18 |   Monitoring and Metrics:
+--------^
+ 19 |     tab: blu-local (Tailscale)
+ 20 |   Media:
+[2024-03-13T09:17:07.491Z] error: Failed to load settings.yaml, please check for errors
+[2024-03-13T09:17:07.492Z] error: YAMLException: duplicated mapping key (18:3)
+
+ 15 |     tab: blu-local
+ 16 |   Tools:
+ 17 |     tab: blue-local
+ 18 |   Monitoring and Metrics:
+--------^
+ 19 |     tab: blu-local (Tailscale)
+ 20 |   Media:
+[2024-03-13T09:17:07.501Z] error: Failed to load settings.yaml, please check for errors
+[2024-03-13T09:17:07.502Z] error: YAMLException: duplicated mapping key (18:3)
+
+ 15 |     tab: blu-local
+ 16 |   Tools:
+ 17 |     tab: blue-local
+ 18 |   Monitoring and Metrics:
+--------^
+ 19 |     tab: blu-local (Tailscale)
+ 20 |   Media:
+[2024-03-13T09:19:06.802Z] error: Failed to load settings.yaml, please check for errors
+[2024-03-13T09:19:06.802Z] error: YAMLException: expected a single document in the stream, but found more
+[2024-03-13T09:19:06.806Z] error: Failed to load settings.yaml, please check for errors
+[2024-03-13T09:19:06.806Z] error: YAMLException: expected a single document in the stream, but found more
+[2024-03-13T09:39:08.265Z] error: Failed to load settings.yaml, please check for errors
+[2024-03-13T09:39:08.266Z] error: YAMLException: duplicated mapping key (18:3)
+
+ 15 |     tab: Local
+ 16 |   Tools:
+ 17 |     tab: Local
+ 18 |   Monitoring and Metrics:
+--------^
+ 19 |     tab: Tailscale
+ 20 |   Media:
+[2024-03-13T09:39:08.283Z] error: Failed to load settings.yaml, please check for errors
+[2024-03-13T09:39:08.284Z] error: YAMLException: duplicated mapping key (18:3)
+
+ 15 |     tab: Local
+ 16 |   Tools:
+ 17 |     tab: Local
+ 18 |   Monitoring and Metrics:
+--------^
+ 19 |     tab: Tailscale
+ 20 |   Media:
+[2024-03-13T09:39:08.337Z] error: <index> YAMLException: duplicated mapping key (18:3)
+
+ 15 |     tab: Local
+ 16 |   Tools:
+ 17 |     tab: Local
+ 18 |   Monitoring and Metrics:
+--------^
+ 19 |     tab: Tailscale
+ 20 |   Media:
+    at generateError (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:1273:10)
+    at throwError (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:1277:9)
+    at storeMappingPair (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:1448:7)
+    at readBlockMapping (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2263:9)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2531:12)
+    at readBlockMapping (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2254:11)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2531:12)
+    at readDocument (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2715:3)
+    at loadDocuments (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2778:5)
+    at Object.load$1 [as load] (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2804:19)
+[2024-03-13T09:39:08.407Z] error: Failed to load settings.yaml, please check for errors
+[2024-03-13T09:39:08.407Z] error: YAMLException: duplicated mapping key (18:3)
+
+ 15 |     tab: Local
+ 16 |   Tools:
+ 17 |     tab: Local
+ 18 |   Monitoring and Metrics:
+--------^
+ 19 |     tab: Tailscale
+ 20 |   Media:
+[2024-03-13T09:39:08.413Z] error: Failed to load settings.yaml, please check for errors
+[2024-03-13T09:39:08.413Z] error: YAMLException: duplicated mapping key (18:3)
+
+ 15 |     tab: Local
+ 16 |   Tools:
+ 17 |     tab: Local
+ 18 |   Monitoring and Metrics:
+--------^
+ 19 |     tab: Tailscale
+ 20 |   Media:
+[2024-03-13T10:49:00.042Z] error: <credentialedProxyHandler> HTTP Error 501 calling https://192.168.1.20:8006//api2/json/cluster/resources
+[2024-03-13T10:49:05.073Z] error: <credentialedProxyHandler> HTTP Error 501 calling https://192.168.1.20:8006//api2/json/cluster/resources
+[2024-03-13T10:49:18.946Z] error: undefined
+[2024-03-24T01:09:38.328Z] error: <dockerStatusService> TypeError: Cannot read properties of null (reading '192.168.1.25')
+    at getDockerArguments (/app/.next/server/chunks/7163.js:44:14)
+    at handler (/app/.next/server/pages/api/docker/status/[...service].js:88:96)
+    at Object.apiResolver (/app/node_modules/.pnpm/next@12.3.4_react-dom@18.2.0_react@18.2.0/node_modules/next/dist/server/api-utils/node.js:366:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async NextNodeServer.runApi (/app/node_modules/.pnpm/next@12.3.4_react-dom@18.2.0_react@18.2.0/node_modules/next/dist/server/next-server.js:481:9)
+    at async Object.fn (/app/node_modules/.pnpm/next@12.3.4_react-dom@18.2.0_react@18.2.0/node_modules/next/dist/server/next-server.js:741:37)
+    at async Router.execute (/app/node_modules/.pnpm/next@12.3.4_react-dom@18.2.0_react@18.2.0/node_modules/next/dist/server/router.js:252:36)
+    at async NextNodeServer.run (/app/node_modules/.pnpm/next@12.3.4_react-dom@18.2.0_react@18.2.0/node_modules/next/dist/server/base-server.js:365:29)
+    at async NextNodeServer.handleRequest (/app/node_modules/.pnpm/next@12.3.4_react-dom@18.2.0_react@18.2.0/node_modules/next/dist/server/base-server.js:303:20)
+    at async Server.<anonymous> (/app/server.js:19:5)
+[2024-03-24T01:09:38.442Z] error: <dockerStatusService> TypeError: Cannot read properties of null (reading '192.168.1.25')
+    at getDockerArguments (/app/.next/server/chunks/7163.js:44:14)
+    at handler (/app/.next/server/pages/api/docker/status/[...service].js:88:96)
+    at Object.apiResolver (/app/node_modules/.pnpm/next@12.3.4_react-dom@18.2.0_react@18.2.0/node_modules/next/dist/server/api-utils/node.js:366:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async NextNodeServer.runApi (/app/node_modules/.pnpm/next@12.3.4_react-dom@18.2.0_react@18.2.0/node_modules/next/dist/server/next-server.js:481:9)
+    at async Object.fn (/app/node_modules/.pnpm/next@12.3.4_react-dom@18.2.0_react@18.2.0/node_modules/next/dist/server/next-server.js:741:37)
+    at async Router.execute (/app/node_modules/.pnpm/next@12.3.4_react-dom@18.2.0_react@18.2.0/node_modules/next/dist/server/router.js:252:36)
+    at async NextNodeServer.run (/app/node_modules/.pnpm/next@12.3.4_react-dom@18.2.0_react@18.2.0/node_modules/next/dist/server/base-server.js:365:29)
+    at async NextNodeServer.handleRequest (/app/node_modules/.pnpm/next@12.3.4_react-dom@18.2.0_react@18.2.0/node_modules/next/dist/server/base-server.js:303:20)
+    at async Server.<anonymous> (/app/server.js:19:5)
+[2024-03-24T01:09:41.737Z] error: <dockerStatsService> TypeError: Cannot read properties of null (reading '192.168.1.25')
+    at getDockerArguments (/app/.next/server/chunks/7163.js:44:14)
+    at handler (/app/.next/server/pages/api/docker/stats/[...service].js:88:96)
+    at Object.apiResolver (/app/node_modules/.pnpm/next@12.3.4_react-dom@18.2.0_react@18.2.0/node_modules/next/dist/server/api-utils/node.js:366:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async NextNodeServer.runApi (/app/node_modules/.pnpm/next@12.3.4_react-dom@18.2.0_react@18.2.0/node_modules/next/dist/server/next-server.js:481:9)
+    at async Object.fn (/app/node_modules/.pnpm/next@12.3.4_react-dom@18.2.0_react@18.2.0/node_modules/next/dist/server/next-server.js:741:37)
+    at async Router.execute (/app/node_modules/.pnpm/next@12.3.4_react-dom@18.2.0_react@18.2.0/node_modules/next/dist/server/router.js:252:36)
+    at async NextNodeServer.run (/app/node_modules/.pnpm/next@12.3.4_react-dom@18.2.0_react@18.2.0/node_modules/next/dist/server/base-server.js:365:29)
+    at async NextNodeServer.handleRequest (/app/node_modules/.pnpm/next@12.3.4_react-dom@18.2.0_react@18.2.0/node_modules/next/dist/server/base-server.js:303:20)
+    at async Server.<anonymous> (/app/server.js:19:5)
+[2024-03-24T01:09:41.740Z] error: <dockerStatusService> TypeError: Cannot read properties of null (reading '192.168.1.25')
+    at getDockerArguments (/app/.next/server/chunks/7163.js:44:14)
+    at handler (/app/.next/server/pages/api/docker/status/[...service].js:88:96)
+    at Object.apiResolver (/app/node_modules/.pnpm/next@12.3.4_react-dom@18.2.0_react@18.2.0/node_modules/next/dist/server/api-utils/node.js:366:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async NextNodeServer.runApi (/app/node_modules/.pnpm/next@12.3.4_react-dom@18.2.0_react@18.2.0/node_modules/next/dist/server/next-server.js:481:9)
+    at async Object.fn (/app/node_modules/.pnpm/next@12.3.4_react-dom@18.2.0_react@18.2.0/node_modules/next/dist/server/next-server.js:741:37)
+    at async Router.execute (/app/node_modules/.pnpm/next@12.3.4_react-dom@18.2.0_react@18.2.0/node_modules/next/dist/server/router.js:252:36)
+    at async NextNodeServer.run (/app/node_modules/.pnpm/next@12.3.4_react-dom@18.2.0_react@18.2.0/node_modules/next/dist/server/base-server.js:365:29)
+    at async NextNodeServer.handleRequest (/app/node_modules/.pnpm/next@12.3.4_react-dom@18.2.0_react@18.2.0/node_modules/next/dist/server/base-server.js:303:20)
+    at async Server.<anonymous> (/app/server.js:19:5)
+[2024-03-24T01:09:48.441Z] error: <dockerStatusService> TypeError: Cannot read properties of null (reading '192.168.1.25')
+    at getDockerArguments (/app/.next/server/chunks/7163.js:44:14)
+    at handler (/app/.next/server/pages/api/docker/status/[...service].js:88:96)
+    at Object.apiResolver (/app/node_modules/.pnpm/next@12.3.4_react-dom@18.2.0_react@18.2.0/node_modules/next/dist/server/api-utils/node.js:366:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async NextNodeServer.runApi (/app/node_modules/.pnpm/next@12.3.4_react-dom@18.2.0_react@18.2.0/node_modules/next/dist/server/next-server.js:481:9)
+    at async Object.fn (/app/node_modules/.pnpm/next@12.3.4_react-dom@18.2.0_react@18.2.0/node_modules/next/dist/server/next-server.js:741:37)
+    at async Router.execute (/app/node_modules/.pnpm/next@12.3.4_react-dom@18.2.0_react@18.2.0/node_modules/next/dist/server/router.js:252:36)
+    at async NextNodeServer.run (/app/node_modules/.pnpm/next@12.3.4_react-dom@18.2.0_react@18.2.0/node_modules/next/dist/server/base-server.js:365:29)
+    at async NextNodeServer.handleRequest (/app/node_modules/.pnpm/next@12.3.4_react-dom@18.2.0_react@18.2.0/node_modules/next/dist/server/base-server.js:303:20)
+    at async Server.<anonymous> (/app/server.js:19:5)
+[2024-03-24T01:10:50.288Z] error: <dockerStatusService> TypeError: Cannot read properties of null (reading '192.168.1.25')
+    at getDockerArguments (/app/.next/server/chunks/7163.js:44:14)
+    at handler (/app/.next/server/pages/api/docker/status/[...service].js:88:96)
+    at Object.apiResolver (/app/node_modules/.pnpm/next@12.3.4_react-dom@18.2.0_react@18.2.0/node_modules/next/dist/server/api-utils/node.js:366:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async NextNodeServer.runApi (/app/node_modules/.pnpm/next@12.3.4_react-dom@18.2.0_react@18.2.0/node_modules/next/dist/server/next-server.js:481:9)
+    at async Object.fn (/app/node_modules/.pnpm/next@12.3.4_react-dom@18.2.0_react@18.2.0/node_modules/next/dist/server/next-server.js:741:37)
+    at async Router.execute (/app/node_modules/.pnpm/next@12.3.4_react-dom@18.2.0_react@18.2.0/node_modules/next/dist/server/router.js:252:36)
+    at async NextNodeServer.run (/app/node_modules/.pnpm/next@12.3.4_react-dom@18.2.0_react@18.2.0/node_modules/next/dist/server/base-server.js:365:29)
+    at async NextNodeServer.handleRequest (/app/node_modules/.pnpm/next@12.3.4_react-dom@18.2.0_react@18.2.0/node_modules/next/dist/server/base-server.js:303:20)
+    at async Server.<anonymous> (/app/server.js:19:5)
+[2024-03-24T01:51:49.993Z] error: undefined
+[2024-03-25T02:08:31.065Z] error: undefined
+[2024-03-25T02:08:33.591Z] error: undefined
