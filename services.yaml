@@ -89,6 +89,12 @@
         ping:
         description:
 
+    - Home Assistant:
+        icon: homeassistant.png
+        href: http://192.168.1.207:8123
+        ping:
+        description:
+
     - Dozzle:
         icon: dozzle.png
         href: http://192.168.1.25:9001
