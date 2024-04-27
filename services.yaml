@@ -90,7 +90,7 @@
         description:
 
     - Home Assistant:
-        icon: homeassistant.png
+        icon: home-assistant.png
         href: http://192.168.1.207:8123
         ping:
         description:
@@ -187,6 +187,12 @@
         icon: chromium.png
         href: http://100.109.233.48:8080/vnc.html?autoconnect=true
         ping: http://100.109.233.48:8080/vnc.html?autoconnect=true
+        description:
+
+    - Home Assistant:
+        icon: home-assistant.png
+        href: http://100.113.44.124:8123
+        ping:
         description:
 
     - Dozzle:
