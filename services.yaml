@@ -34,6 +34,12 @@
         ping:
         description:
 
+    - Scrutiny:
+        icon: scrutiny.png
+        href: http://192.168.1.25:7070
+        ping:
+        description:
+
 - Media:
     - Plex:
         icon: plex.png
@@ -119,6 +125,8 @@
         ping:
         description:
 
+# Tailscale tab below here:
+
 - Monitoring and Metrics (Tailscale):
     - Prometheus:
         icon: prometheus.png
@@ -149,6 +157,12 @@
         href: http://100.109.233.48:8383
         ping: http://100.109.233.48:8383
         description:
+
+    - Scrutiny:
+        icon: scrutiny.png
+        href: http://100.109.233.48:7070
+        ping:
+        description:        
 
 - Media (Tailscale):
     - Plex:
@@ -213,6 +227,8 @@
         ping: 100.109.233.48
         description:
 
+# Waikanae tab lives below here:
+
 - Infrastructure (Waikanae):
     - Unraid:
         icon: unraid.png
@@ -238,3 +254,9 @@
         href: http://100.64.151.81:8112
         ping: http://100.64.151.81:8112
         description:
+
+    - Scrutiny:
+        icon: scrutiny.png
+        href: http://100.64.151.81:7070
+        ping:
+        description:        
