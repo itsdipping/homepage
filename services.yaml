@@ -125,6 +125,12 @@
         ping:
         description:
 
+    - IT Tools:
+        icon: it-tools.png
+        href: http://192.168.1.25:9002
+        ping:
+        description:
+
 # Tailscale tab below here:
 
 - Monitoring and Metrics (Tailscale):
@@ -225,6 +231,12 @@
         icon: mealie.png
         href: http://100.109.233.48:3030
         ping: 100.109.233.48
+        description:
+
+    - IT Tools:
+        icon: it-tools.png
+        href: http://192.168.1.25:9002
+        ping:
         description:
 
 # Waikanae tab lives below here:
