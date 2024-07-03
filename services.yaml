@@ -59,6 +59,12 @@
         ping:
         description:
 
+    - Photoview:
+        icon: photoview.png
+        href: http://192.168.1.25:8694
+        ping:
+        description:
+
 - Infrastructure:
     - Unifi Security Gateway:
         icon: ubiquiti.png
@@ -193,6 +199,12 @@
         icon: immich.png
         href: http://100.109.233.48:2283
         ping: 100.109.233.48:2283
+        description:
+
+    - Photoview:
+        icon: photoview.png
+        href: http://100.109.233.48:8694
+        ping:
         description:
 
 - Infrastructure (Tailscale):
